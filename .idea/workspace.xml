@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="037ed7e4-d910-4082-8a8c-3253b59c9ddf" name="Changes" comment="feat: Add a hello world">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="037ed7e4-d910-4082-8a8c-3253b59c9ddf" name="Changes" comment="feat: Add some variables">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/UpdatingVariables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +17,13 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -57,6 +65,7 @@
       <workItem from="1678640093979" duration="621000" />
       <workItem from="1678649855132" duration="539000" />
       <workItem from="1678654370397" duration="115000" />
+      <workItem from="1678654569708" duration="1986000" />
     </task>
     <task id="LOCAL-00001" summary="feat: Add a hello world">
       <created>1678650099563</created>
@@ -65,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678650099563</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat: Add some variables">
+      <created>1678656191244</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678656191244</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,7 +100,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: Add a hello world" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Add a hello world" />
+    <MESSAGE value="feat: Add some variables" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Add some variables" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
