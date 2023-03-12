@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="037ed7e4-d910-4082-8a8c-3253b59c9ddf" name="Changes" comment="feat: Add some variables">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/UpdatingVariables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+    <list default="true" id="037ed7e4-d910-4082-8a8c-3253b59c9ddf" name="Changes" comment="feat: Add UpdatingVariables file">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +64,7 @@
       <workItem from="1678640093979" duration="621000" />
       <workItem from="1678649855132" duration="539000" />
       <workItem from="1678654370397" duration="115000" />
-      <workItem from="1678654569708" duration="1986000" />
+      <workItem from="1678654569708" duration="2699000" />
     </task>
     <task id="LOCAL-00001" summary="feat: Add a hello world">
       <created>1678650099563</created>
@@ -81,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678656191244</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feat: Add UpdatingVariables file">
+      <created>1678657251955</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678657251955</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,7 +107,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: Add a hello world" />
     <MESSAGE value="feat: Add some variables" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Add some variables" />
+    <MESSAGE value="feat: Add UpdatingVariables file" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Add UpdatingVariables file" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
