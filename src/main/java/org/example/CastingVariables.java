@@ -26,5 +26,18 @@ public class CastingVariables {
         int b = 12;
 
         System.out.println((double) a/b);
+
+        // Convertir un char a entero
+
+        char n = '1';
+        int nI = n;
+        // Imagino que es un ASCII
+        System.out.println(nI);
+
+        // Puedes usar Integer para parsear de String a numero
+
+        int numberParsed = Integer.parseInt(String.valueOf(n));
+        System.out.println(numberParsed);
+
     }
 }
